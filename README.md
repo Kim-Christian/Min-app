@@ -1,3 +1,3 @@
 # Min-app
 
-Programmering mot mobilplattform1
+Programmering mot mobilplattform1.
