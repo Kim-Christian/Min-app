@@ -1,7 +1,7 @@
 # Min-app
 
-Namn:           Castle Clash Calculator
-Kurs:           Programmering mot mobilplattform1, iOS Android
+Namn:           Castle Clash Calculator - 
+Kurs:           Programmering mot mobilplattform1, iOS Android - 
 Operativsystem: Android
 
 Bakgrund:
