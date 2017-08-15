@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hero_card" type="id"/>
+    <item name="skill_card" type="id"/>
+    <item name="talent_card" type="id"/>
+    <item name="crest_card" type="id"/>
+    <item name="artifact_card" type="id"/>
+    <item name="card" type="id"/>
+</resources>

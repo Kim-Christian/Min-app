@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="celebrate_base_attr">
+        <item name="atk">1</item>
+        <item name="atk_spd">2</item>
+        <item name="dmg">3</item>
+        <item name="hp">4</item>
+        <item name="mov_spd">5</item>
+    </array>
+    <array name="vs_base_attr">
+        <item name="atk">10</item>
+        <item name="atk_spd">20</item>
+        <item name="dmg">30</item>
+        <item name="hp">40</item>
+        <item name="mov_spd">50</item>
+    </array>
+    <!--<array name="berserk_base_attr">
+        <item name="atk">1</item>
+        <item name="atk_spd">2</item>
+        <item name="dmg">3</item>
+        <item name="hp">4</item>
+        <item name="mov_spd">5</item>
+    </array>
+    <array name="revite_base_attr">
+        <item name="atk">10</item>
+        <item name="atk_spd">20</item>
+        <item name="dmg">30</item>
+        <item name="hp">40</item>
+        <item name="mov_spd">50</item>
+    </array>
+    <array name="wg">
+        <item name="atk">100</item>
+        <item name="atk_spd">100</item>
+        <item name="dmg">100</item>
+        <item name="hp">100</item>
+        <item name="mov_spd">100</item>
+    </array>
+    <array name="bw">
+        <item name="atk">1000</item>
+        <item name="atk_spd">1000</item>
+        <item name="dmg">1000</item>
+        <item name="hp">1000</item>
+        <item name="mov_spd">1000</item>
+    </array>-->
+</resources>

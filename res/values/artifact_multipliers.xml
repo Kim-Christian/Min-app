@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bs_atk_mult">
+        <item name="atk1">1.0</item>
+        <item name="atk2">2.0</item>
+        <item name="atk3">3.0</item>
+        <item name="atk4">4.0</item>
+        <item name="atk5">5.0</item>
+    </string-array>
+    <string-array name="bs_atk_spd_mult">
+        <item name="atk_spd1">1.0</item>
+        <item name="atk_spd2">0.0</item>
+        <item name="atk_spd3">0.0</item>
+        <item name="atk_spd4">0.0</item>
+        <item name="atk_spd5">0.0</item>
+    </string-array>
+    <string-array name="bs_dmg_mult">
+        <item name="dmg1">2.0</item>
+        <item name="dmg2">0.0</item>
+        <item name="dmg3">0.0</item>
+        <item name="dmg4">0.0</item>
+        <item name="dmg5">0.0</item>
+    </string-array>
+    <string-array name="bs_hp_mult">
+        <item name="hp1">3.0</item>
+        <item name="hp2">0.0</item>
+        <item name="hp3">0.0</item>
+        <item name="hp4">0.0</item>
+        <item name="hp5">0.0</item>
+    </string-array>
+    <string-array name="bs_mov_spd_mult">
+        <item name="mov_spd1">4.0</item>
+        <item name="mov_spd2">0.0</item>
+        <item name="mov_spd3">0.0</item>
+        <item name="mov_spd4">0.0</item>
+        <item name="mov_spd5">0.0</item>
+    </string-array>
+    <!--<array name="pd_multipliers">
+        <item>@array/pd_atk_mult</item>
+        <item>@array/pd_atk_spd_mult</item>
+        <!-<item>@array/pd_dmg_mult</item>
+        <item>@array/pd_hp_mult</item>
+        <item>@array/pd_mov_spd_mult</item>
+    </array>-->
+    <string-array name="gol_atk_mult">
+        <item name="atk1">10.0</item>
+        <item name="atk2">20.0</item>
+        <item name="atk3">30.0</item>
+        <item name="atk4">40.0</item>
+        <item name="atk5">50.0</item>
+    </string-array>
+    <string-array name="gol_atk_spd_mult">
+        <item name="atk_spd1">1.0</item>
+        <item name="atk_spd2">0.0</item>
+        <item name="atk_spd3">0.0</item>
+        <item name="atk_spd4">0.0</item>
+        <item name="atk_spd5">0.0</item>
+    </string-array>
+    <string-array name="gol_dmg_mult">
+        <item name="dmg1">2.0</item>
+        <item name="dmg2">0.0</item>
+        <item name="dmg3">0.0</item>
+        <item name="dmg4">0.0</item>
+        <item name="dmg5">0.0</item>
+    </string-array>
+    <string-array name="gol_hp_mult">
+        <item name="hp1">3.0</item>
+        <item name="hp2">0.0</item>
+        <item name="hp3">0.0</item>
+        <item name="hp4">0.0</item>
+        <item name="hp5">0.0</item>
+    </string-array>
+    <string-array name="gol_mov_spd_mult">
+        <item name="mov_spd1">4.0</item>
+        <item name="mov_spd2">0.0</item>
+        <item name="mov_spd3">0.0</item>
+        <item name="mov_spd4">0.0</item>
+        <item name="mov_spd5">0.0</item>
+    </string-array>
+</resources>

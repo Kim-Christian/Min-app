@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Castle Clash Calculator</string>
+    <string name="hero_stats">Hero Stats</string>
+    <string name="evolution">Evolution</string>
+    <string name="hero_stats_description">Get the stats you need!</string>
+    <string name="evolution_description">Ready for evolution?</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="hero">Hero</string>
+    <string name="starLevel">Star level</string>
+    <string name="level">Level</string>
+    <string name="evolved">Evolved</string>
+    <string name="skill">Skill</string>
+    <string name="talent">Talent</string>
+    <string name="crest">Crest</string>
+    <string name="artifact">Artifact</string>
+    <string name="hyphen">-</string>
+    <string name="add_card">Add card</string>
+    <string name="selected_hero">Pumpkin Duke</string>
+    <string name="selected_skill">Celebrate</string>
+    <string name="selected_talent">Berserk</string>
+    <string name="selected_crest">Revitalize</string>
+    <string name="selected_artifact">Blitz Scroll</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog">Dialog</string>
+    <string name="dialog_title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="title">Title</string>
+    <string name="action1">Action 1</string>
+    <string name="action2">Action 2</string>
+    <string name="atk">ATK</string>
+    <string name="atk_spd">ATK SPD</string>
+    <string name="dmg">DMG</string>
+    <string name="hp">HP</string>
+    <string name="mov_spd">MOV SPD</string>
+    <string name="exp_to_next">Exp to next Blessed Tome II</string>
+    <string name="books_to_consume">Books to consume</string>
+    <string name="returned_books">Returned books</string>
+    <string name="exp">Exp</string>
+    <string-array name="heroes">
+        <item name="pd">Pumpkin Duke</item>
+        <item name="sk">Skull Knight</item>
+        <item name="sb">Santa Boom</item>
+        <item name="gh">Ghoulem</item>
+    </string-array>
+    <string-array name="evo">
+        <item>No</item>
+        <item>Single</item>
+        <item>Double</item>
+    </string-array>
+    <string-array name="skills">
+        <item name="pd_skill">Celebrate</item>
+        <item name="sk_skill">Vengeful Sword</item>
+        <item name="sb_skill">Fireworks Bazooka</item>
+        <item name="gh_skill">Spirit Summon</item>
+    </string-array>
+    <string-array name="talents">
+        <item>Berserk</item>
+        <item>Life Drain</item>
+    </string-array>
+    <string-array name="crests">
+        <item>Tenacity</item>
+        <item>Revive</item>
+    </string-array>
+    <string-array name="artifacts">
+        <item>Blitz Scroll</item>
+        <item>Goblet of Life</item>
+    </string-array>
+    <string-array name="dialog_items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+    </string-array>
+    <string-array name="pd_mult_str">
+        <item>R.array.pd_atk_mult</item>
+        <item>R.array.pd_atk_spd_mult</item>
+        <item>R.array.pd_dmg_mult</item>
+        <item>R.array.pd_hp_mult</item>
+        <item>R.array.pd_mov_spd_mult</item>
+    </string-array>
+    <string-array name="sk_mult_str">
+        <item>R.array.sk_atk_mult</item>
+        <item>R.array.sk_atk_spd_mult</item>
+        <item>R.array.sk_dmg_mult</item>
+        <item>R.array.sk_hp_mult</item>
+        <item>R.array.sk_mov_spd_mult</item>
+    </string-array>
+</resources>
